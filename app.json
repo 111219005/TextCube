@@ -17,6 +17,19 @@
         "foregroundImage": "./assets/image/adaptive-foreground.png",
         "backgroundColor": "./assets/image/adaptive-background.png"
       }
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3d0ae6d2-3827-4b64-8bbd-adb451b322c4"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3d0ae6d2-3827-4b64-8bbd-adb451b322c4"
+    },
+    "ios": {}
   }
 }
