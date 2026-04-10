@@ -5,7 +5,7 @@
       "expo-router"
     ],
     "name": "文字方塊",
-    "slug": "text-cube",
+    "slug": "mid_17_textcube",
     "icon": "./assets/image/app-icon.png",
     "splash": {
       "image": "./assets/image/splash.png",
